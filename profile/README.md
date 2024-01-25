@@ -54,7 +54,7 @@ We prioritize creating an inclusive and respectful community. Please adhere to o
 
 ## Contact Us
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [email@example.com].
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [fosterthedata@gmail.com].
 
 ## Connect with Us
 
