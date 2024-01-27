@@ -52,14 +52,14 @@ We prioritize creating an inclusive and respectful community. Please adhere to o
 
 ## Contact Us
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [fosterthedata@gmail.com].
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at fosterthedata@gmail.com.
 
 ## Connect with Us
 
 Stay updated and connected with Foster-the-Data:
 
 - [Twitter](https://twitter.com/FosterTheData)
-- [Blog]([link-to-blog](https://medium.com/@fosterthedata))
+- [Blog](https://medium.com/@fosterthedata)
 
 ## License
 
