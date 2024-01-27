@@ -46,8 +46,6 @@ We welcome contributions from everyone! Whether you're a seasoned data professio
 - **Send pull requests** to fix issues or add new features
 - **Join discussions** and share your ideas
 
-Please review our [contribution guidelines](link-to-contribution-guidelines.md) to understand our standards and practices.
-
 ## Code of Conduct
 
 We prioritize creating an inclusive and respectful community. Please adhere to our [Code of Conduct](link-to-code-of-conduct.md) in all interactions within our organization.
@@ -60,9 +58,8 @@ If you have any questions, suggestions, or just want to say hello, feel free to 
 
 Stay updated and connected with Foster-the-Data:
 
-- [Twitter](link-to-twitter)
-- [LinkedIn](link-to-linkedin)
-- [Blog](link-to-blog)
+- [Twitter](https://twitter.com/FosterTheData)
+- [Blog]([link-to-blog](https://medium.com/@fosterthedata))
 
 ## License
 
