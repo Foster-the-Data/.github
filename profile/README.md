@@ -48,7 +48,7 @@ We welcome contributions from everyone! Whether you're a seasoned data professio
 
 ## Code of Conduct
 
-We prioritize creating an inclusive and respectful community. Please adhere to our [Code of Conduct](link-to-code-of-conduct.md) in all interactions within our organization.
+We prioritize creating an inclusive and respectful community. Please adhere to our [Code of Conduct](https://github.com/Foster-the-Data/.github/blob/main/profile/code-of-conduct.md) in all interactions within our organization.
 
 ## Contact Us
 
@@ -63,4 +63,4 @@ Stay updated and connected with Foster-the-Data:
 
 ## License
 
-All projects within Foster-the-Data are licensed under [License Name]. Please refer to individual project repositories for specific licensing information.
+All projects within Foster-the-Data are licensed under MIT License. Please refer to individual project repositories for specific licensing information.
